@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+# This file counts and seggregates the file in to their category, basis thier file type
 
 import os
 import shutil
